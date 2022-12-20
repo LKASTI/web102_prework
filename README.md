@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="Gr29yb8"><a href="https://imgur.com/Gr29yb8">View post on imgur.com</a></blockquote>
+[Imgur](https://imgur.com/Gr29yb8)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
