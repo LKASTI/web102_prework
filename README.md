@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video>
-    <source src="https://i.imgur.com/Gr29yb8.mp4" type="video/mp4">
-</video>
+<video controls > <source src="https://i.imgur.com/Gr29yb8.mp4" type="video/mp4"> </video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
